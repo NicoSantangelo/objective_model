@@ -1,0 +1,3 @@
+describe ObjectiveModel do
+  
+end
